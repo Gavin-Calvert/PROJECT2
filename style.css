@@ -1,0 +1,69 @@
+.header{
+    text-align: center;
+    color: red;
+}
+.link{
+    color: lightseagreen;
+    background-color: gainsboro;
+    width: 200px;
+}
+.link-info{
+    background-color: whitesmoke;
+    width: 500px;
+}
+#yosemite{
+    float: right;
+    width: 325px;
+}
+#california{
+    float: left;
+    width: 250px;
+}
+#vacation-header{
+    color: teal;
+}
+#activity-header{
+    color: lime
+}
+#media-header{
+    color: palevioletred
+}
+#vacation{
+    background-image: url("https://d36tnp772eyphs.cloudfront.net/blogs/1/2019/02/Travel-in-Sequoia-National-Park.jpg");
+    width: 1000px;
+}
+#vacation-information{
+    text-align: center;
+    color: rgb(255, 106, 0);
+    background-color: wheat;
+}
+.gamer{
+    float: right;
+    width: 300px;
+}
+#activity{
+    background-color: teal;
+}
+.activity-information{
+    color: whitesmoke;
+    width: 600px;
+    font-size: 20px;
+}
+#other-activity-info{
+    width: 700px;
+}
+#media{
+    background-image: url("https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/21EC698DB8300017B6E3991DD29511D4D57515BDE242F8CA1476260C848ADCA9/scale?width=1200&aspectRatio=1.78&format=webp");
+}
+#media-information{
+    background-color: cyan;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    width: 400px;
+    border-style: dashed;
+}
+#main-image{
+    float: right;
+    width: 300px;
+}
